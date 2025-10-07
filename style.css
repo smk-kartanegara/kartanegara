@@ -10,12 +10,14 @@ body {
     padding: 20px;
     background-color: aliceblue;
     border-radius: 15px; /*membuat sudut menjadi melengkung*/
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* efek bayangan */
+    box-shadow: 0 4px 8px red (0,0,0,0.1); /* efek bayangan */
     text-align: center;
 }
 .kartu-profil img {
     width: 150px;
     border-radius: 50%;
+      box-shadow: 0 4px 8px black (0,0,0,0.1); /* efek bayangan */
+    text-align: center;
 }
 
 #sapaButton{
